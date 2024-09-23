@@ -1,5 +1,6 @@
 # food_recall_project
-BIOS 669: Working with Data in a Public Health Setting Individual project 
+BIOS 669: Working with Data in a Public Health Setting 
+
 Final Project Guidelines
 Guidance concerning your BIOS 669 project for Spring 2024
 
